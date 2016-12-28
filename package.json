@@ -1,0 +1,20 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "Simple shopping list app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0",
+    "underscore": "^1.8.3"
+  },
+  "author": "PolinaN",
+  "license": "ISC"
+}
